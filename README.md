@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @claruchis
-- 👀 I’m interested in QA, testing, automation.
-- 🌱 I’m currently learning Python and Data Analytics.
+- 👀 I’m interested in QA manual and automation, Data Analytics, SQL and IA.
+- 🌱 I’m currently learning Selenium.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Love to cook pastry but love to eat salty.
 
