@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @claruchis
-- 👀 I’m interested in QA manual and automation, Data Analytics, SQL and IA.
-- 🌱 I’m currently learning Selenium.
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: Love to cook pastry but love to eat salty.
+# 👋 Hola, soy Clara
 
-<!---
-claruchis/claruchis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Soy economista con experiencia en gestión y actualmente estoy formándome en QA Automation.
+
+## 💻 Tecnologías
+
+* Python
+* Selenium
+* Pytest
+
+## 🚀 Proyectos destacados
+
+🔹 QA Automation - Saucedemo
+Automatización de login con tests positivos y negativos
+👉 https://github.com/claruchis/qa-automation-saucedemo
+
+🔹 Proyecto Python - Inventario de vivero
+Aplicación en consola con operaciones CRUD
+👉 https://github.com/claruchis/Python
+
+## 📚 Actualmente
+
+* Estudiando QA Automation
+* Profundizando en testing y Python
+
+## 📫 Contacto
+
+* LinkedIn: https://www.linkedin.com/in/claracarbonetti/
+
