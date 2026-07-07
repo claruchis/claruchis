@@ -12,7 +12,7 @@ Soy economista con experiencia en gestión y actualmente estoy formándome en QA
 
 🔹 QA Automation - Saucedemo
 Automatización de login con tests positivos y negativos
-👉 https://github.com/claruchis/qa-automation-saucedemo
+👉 https://github.com/claruchis/proyecto-final-automation-testing-clara-carbonetti
 
 🔹 Proyecto Python - Inventario de vivero
 Aplicación en consola con operaciones CRUD
